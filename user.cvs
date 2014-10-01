@@ -1,1 +1,202 @@
-d
+fname,lname,uid,phone,address
+Barbara,West,1,688-58-5279,Illinois
+Theresa,Parker,2,866-77-8981,Texas
+Ruth,Snyder,3,511-26-0735,Virginia
+Ruth,Elliott,4,481-39-1416,Florida
+Nancy,Alexander,5,928-56-2567,West Virginia
+Marilyn,Woods,6,535-51-9898,Ohio
+Annie,Fernandez,7,416-06-9337,California
+Laura,Butler,8,959-21-8217,North Carolina
+Irene,Harrison,9,271-30-4613,Texas
+Scott,Alvarez,10,526-53-8597,California
+Brian,Bryant,11,261-77-3368,Massachusetts
+Lawrence,Lee,12,505-73-7705,California
+Martin,Ortiz,13,299-75-4331,Arkansas
+Catherine,Garza,14,769-64-1263,Florida
+Douglas,Gutierrez,15,218-95-5350,Massachusetts
+Louis,Lynch,16,844-16-6407,Texas
+Elizabeth,Bell,17,347-46-8947,Illinois
+George,Hunt,18,840-71-9332,Minnesota
+Jane,Dunn,19,124-41-8883,California
+Alan,Mendoza,20,875-32-6983,Illinois
+Mildred,Harris,21,617-40-1960,Michigan
+Justin,Dunn,22,370-25-4443,California
+Martin,Kim,23,406-57-8778,Massachusetts
+William,Henderson,24,545-99-1967,Massachusetts
+Eugene,Chapman,25,815-19-7026,North Carolina
+Douglas,Johnson,26,469-45-4922,Texas
+Kathy,Coleman,27,172-71-3755,Illinois
+Matthew,Daniels,28,692-20-7011,Minnesota
+Brian,Kelley,29,675-47-6921,Texas
+Julie,Hudson,30,181-15-0038,Illinois
+Robert,Davis,31,111-65-4128,New Jersey
+William,Wheeler,32,865-78-4745,Colorado
+Janice,Cooper,33,477-18-0304,New York
+Theresa,Dixon,34,518-57-4368,Ohio
+Nancy,Mills,35,531-36-9184,Ohio
+Katherine,Garrett,36,732-31-2370,California
+Rachel,Chavez,37,859-70-8881,New York
+Betty,Black,38,117-21-1447,Ohio
+Judy,Smith,39,944-39-5400,California
+Henry,Howard,40,942-11-7471,Arkansas
+Juan,Fox,41,761-30-0416,Texas
+Brandon,Black,42,582-24-2464,New York
+Amanda,Banks,43,663-35-9670,Texas
+Andrea,Green,44,314-62-8422,Illinois
+Edward,Oliver,45,356-38-6836,Illinois
+Edward,Spencer,46,961-56-3648,Massachusetts
+Henry,Pierce,47,961-44-6999,Florida
+Jason,Nichols,48,673-60-8875,New Jersey
+Jonathan,Sanders,49,647-16-5911,Oklahoma
+Jose,Harris,50,162-22-5303,Florida
+Jason,George,51,915-29-4432,Massachusetts
+Peter,Howard,52,233-12-0556,Massachusetts
+Billy,King,53,728-64-3258,California
+Jacqueline,Boyd,54,855-18-9186,New York
+Kenneth,Fields,55,153-23-5890,California
+Larry,Sanders,56,682-21-1279,Florida
+Kenneth,Stanley,57,928-04-2791,New York
+Charles,Medina,58,704-20-2401,California
+Janice,Wallace,59,941-39-0667,Nebraska
+Lawrence,Clark,60,574-52-2913,New Jersey
+Denise,Foster,61,185-72-4772,Ohio
+Dorothy,Fisher,62,608-66-1571,Illinois
+Brenda,Evans,63,749-34-3464,Texas
+Arthur,Pierce,64,634-75-1976,Michigan
+Kelly,Campbell,65,724-22-3163,Pennsylvania
+Jack,Gomez,66,804-06-8879,Florida
+Matthew,Mccoy,67,723-69-6244,Oklahoma
+Michael,Henderson,68,882-31-7782,California
+Elizabeth,Richards,69,182-33-6331,Michigan
+Patricia,Morales,70,852-71-1340,Texas
+Jerry,Crawford,71,331-66-6597,Texas
+Jean,Bowman,72,805-40-3044,Oklahoma
+Catherine,Perkins,73,603-14-2413,California
+Betty,Bowman,74,365-90-6370,Florida
+Jose,Olson,75,528-50-7330,Texas
+Sharon,Kennedy,76,682-19-0388,New Hampshire
+Laura,Black,77,288-12-1406,Ohio
+Lois,Adams,78,360-48-3121,Minnesota
+Edward,Perry,79,735-22-2321,Oklahoma
+Ralph,Simmons,80,238-96-7255,New Jersey
+Adam,Roberts,81,904-94-8637,Minnesota
+Diane,Torres,82,897-96-4001,Colorado
+Ryan,Payne,83,691-13-9597,California
+Clarence,Alexander,84,508-33-1260,Ohio
+Paul,Gibson,85,517-80-0400,Alabama
+Frank,Kelly,86,833-21-2890,Texas
+Theresa,Walker,87,520-21-6900,New York
+Michelle,Dunn,88,931-00-2281,Ohio
+Brandon,Anderson,89,676-97-1986,Illinois
+Paula,Butler,90,346-08-3325,New York
+Joseph,Frazier,91,725-39-4006,California
+Lisa,Owens,92,627-27-0902,Virginia
+Amy,Freeman,93,817-21-4412,New York
+Joseph,Day,94,886-71-3397,Florida
+Jacqueline,Stone,95,229-02-0235,Massachusetts
+Brenda,Mills,96,326-40-5277,Indiana
+Mark,Fuller,97,512-92-2469,Massachusetts
+Janice,Lewis,98,333-75-3708,Colorado
+Donald,Stanley,99,808-53-7053,New York
+Virginia,Bennett,100,679-58-9053,West Virginia
+Bruce,Scott,101,289-85-3206,Virginia
+Brandon,Barnes,102,819-32-7586,Massachusetts
+Ashley,Hayes,103,754-88-6769,Michigan
+Lisa,Weaver,104,978-77-5014,Illinois
+Carol,Oliver,105,505-05-7042,Alabama
+Adam,Willis,106,579-11-0352,Ohio
+Beverly,Peterson,107,149-32-4279,Indiana
+Gerald,Henderson,108,427-29-8306,Virginia
+Ralph,Diaz,109,777-56-8137,New York
+Eric,Webb,110,467-17-2442,Virginia
+Amy,Matthews,111,550-11-6117,Texas
+Raymond,Willis,112,899-73-9128,Illinois
+Karen,Fuller,113,112-79-6764,Alabama
+Billy,Wallace,114,688-03-6555,New Hampshire
+Louis,Garza,115,455-17-3217,Ohio
+Nancy,Torres,116,738-74-2696,Pennsylvania
+John,Simmons,117,511-26-4456,North Carolina
+Ruth,Elliott,118,309-62-5416,Illinois
+Victor,Hunt,119,407-84-1975,Minnesota
+Randy,Lynch,120,695-48-6529,Rhode Island
+Timothy,Lawson,121,791-83-4966,New Hampshire
+Samuel,Williams,122,458-57-5752,Ohio
+Juan,Hughes,123,528-18-4532,Texas
+Norma,Graham,124,345-62-4262,Michigan
+Gloria,Reid,125,921-22-8785,New York
+Alice,Ruiz,126,427-84-7761,Ohio
+Jimmy,Cox,127,459-66-8474,New Jersey
+Juan,Mills,128,329-07-1475,Ohio
+Jeremy,Thomas,129,348-10-8291,Ohio
+Kenneth,Ramos,130,691-27-9092,Ohio
+Patricia,Jones,131,572-40-6933,West Virginia
+Angela,Bowman,132,312-48-3268,Massachusetts
+Justin,Dunn,133,747-95-8479,Minnesota
+Annie,Harvey,134,665-06-5341,Michigan
+Sara,King,135,295-63-4311,Texas
+Gloria,Gilbert,136,163-49-5753,Illinois
+Paula,Daniels,137,407-93-7066,Maine
+Dorothy,Harris,138,294-12-5855,North Carolina
+Tina,Hughes,139,756-79-5089,Ohio
+Stephanie,Rose,140,797-09-3582,California
+Nancy,Marshall,141,789-02-5636,Minnesota
+Lois,Bell,142,175-00-4203,California
+Melissa,Jordan,143,580-23-0541,Indiana
+Kimberly,Lynch,144,481-17-7991,Minnesota
+Nicholas,Ramos,145,939-79-6107,Florida
+Julie,Larson,146,919-26-6300,Massachusetts
+Raymond,Morgan,147,734-67-1902,California
+Sharon,Lawson,148,870-14-2852,New Jersey
+Eugene,Austin,149,894-13-3270,New York
+Roy,Carr,150,770-63-8148,Indiana
+Mary,Fuller,151,173-55-1585,California
+Christopher,Griffin,152,231-00-8622,New York
+Stephen,Murray,153,133-22-0660,California
+Anne,Wilson,154,111-16-2303,Ohio
+Jessica,Hicks,155,946-57-9035,Ohio
+Jerry,Hunter,156,445-31-3010,Ohio
+Kathy,Gilbert,157,654-66-6006,Michigan
+Billy,Ray,158,419-10-2039,Massachusetts
+Eugene,Owens,159,710-79-7161,North Carolina
+Wayne,Watson,160,999-32-0520,New York
+Lawrence,Hudson,161,721-95-9232,Illinois
+Nicholas,Harper,162,690-51-0520,Alabama
+Ralph,Henry,163,469-87-7744,Texas
+Andrew,Sims,164,449-32-9862,Connecticut
+Phyllis,Carroll,165,354-71-6254,Texas
+Richard,Henry,166,826-59-9054,Florida
+Gary,Ford,167,909-50-0289,Florida
+Anne,Hudson,168,893-64-3565,Illinois
+Robert,Olson,169,303-52-5644,Connecticut
+Jimmy,Romero,170,164-42-5884,New York
+Victor,Wright,171,634-47-0476,Texas
+Randy,Hunt,172,461-16-0619,Minnesota
+Pamela,Kim,173,251-39-2873,Michigan
+Wanda,Lopez,174,370-46-2494,Ohio
+Roy,Elliott,175,703-11-0323,Alabama
+Henry,Kelly,176,955-90-0711,New Jersey
+Julie,Stone,177,462-67-1965,New Hampshire
+Anne,Spencer,178,259-91-9859,Michigan
+Karen,West,179,222-36-6968,Ohio
+Norma,Burke,180,612-27-1667,Michigan
+Rebecca,Day,181,710-74-6846,New Jersey
+Richard,Rivera,182,804-18-0803,Iowa
+Sara,Grant,183,108-99-2309,New York
+John,Lawson,184,725-70-7271,Kansas
+Kathleen,Powell,185,887-49-5021,Ohio
+Jennifer,Harris,186,825-68-6942,Virginia
+Steven,Ford,187,983-64-1326,Michigan
+Evelyn,Kennedy,188,299-07-6654,Illinois
+Susan,Ramos,189,924-94-0822,California
+Lillian,Bryant,190,815-94-7598,California
+Timothy,Ramirez,191,781-23-9142,Colorado
+Matthew,Morris,192,514-61-5500,Michigan
+Stephen,Chapman,193,823-11-3972,California
+Nancy,Elliott,194,322-20-9628,Massachusetts
+Benjamin,Cooper,195,830-91-0707,Minnesota
+Diane,Cox,196,711-91-3979,Massachusetts
+Lisa,Wells,197,854-75-8123,New York
+Carl,Bradley,198,847-21-8349,New Jersey
+Keith,Morgan,199,497-03-1080,Texas
+Walter,Fisher,200,690-92-9213,Illinois
+
